@@ -1,0 +1,9 @@
+{
+  "name": "C++ Development",
+  "image": "mcr.microsoft.com/devcontainers/cpp:bullseye",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  }
+}
